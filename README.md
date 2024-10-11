@@ -28,6 +28,6 @@
 
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=GoranMandic91&theme=merko&hide_border=false&date_format=d+F%5B%2C+Y%5D&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&exclude_days=Sun%2CSat" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranMandic91&theme=merko&hide_title=false&layout=compact&langs_count=10&hide_progress=false&card_width=400&hide_border=false" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoranMandic91&theme=merko&hide_title=false&layout=compact&langs_count=5&hide_progress=false&card_width=400&hide_border=false" alt="GitHub top-langs Card" />
 </p>
 
