@@ -10,10 +10,11 @@
   </ul>
 </div>
 
+ **<h3 align="center">Senior Software Engineer with expertise in building scalable, distributed systems. Focused on creating reliable, high-performance architectures for handling complex, large-scale applications.</h3>**
+ 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/mandic-goran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:godzi1991@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">Senior Software Engineer with expertise in building scalable, distributed systems. Focused on creating reliable, high-performance architectures for handling complex, large-scale applications.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
