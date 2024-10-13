@@ -30,4 +30,4 @@
 </p>
 
  **<h3 align="left">🏆 GitHub Trophies</h3>**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GoranMandic91&margin-w=5&theme=matrix" alt="GoranMandic91" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=GoranMandic91&margin-w=5&theme=matrix" alt="GoranMandic91" /></p>
