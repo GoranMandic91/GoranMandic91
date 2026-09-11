@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="center">I'm a Senior Software Engineer who enjoys building systems that scale quietly in the background — from a news platform serving millions of daily readers to internal cloud infrastructure used across a 15,000+ person company. Lately I've been focused on identity and access systems designed for both human engineers and AI agents, as agentic workflows become part of everyday engineering.</h3>**
+ **<h3 align="center">I'm a Senior Software Engineer who enjoys building systems that scale quietly in the background — from a news platform serving millions of daily readers to internal cloud infrastructure used across a 10,000+ person company. Lately I've been focused on identity and access systems designed for both human engineers and AI agents, as agentic workflows become part of everyday engineering.</h3>**
  
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/mandic-goran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:godzi1991@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -30,4 +30,4 @@
 </p>
 
  **<h3 align="left">🏆 GitHub Trophies</h3>**
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=GoranMandic91&margin-w=5&theme=matrix&rank=-?" alt="GoranMandic91" /></p>
+<p align="left"> <img src="https://github-trophies.devomb.com/?username=GoranMandic91&margin-w=5&theme=matrix&rank=-?" alt="GoranMandic91" /></p>
